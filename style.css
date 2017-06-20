@@ -1,0 +1,32 @@
+body {
+	background-color: #e4e4e4;
+	height: 100%;
+}
+
+footer {
+	background-color: #e4e4e4;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	position: fixed;
+}
+
+a,
+a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+
+h3 {
+	margin-top: 10px;
+	margin-bottom: 30px;
+	float: none;
+}
+
+.logo {
+	margin-bottom: 100px!important;
+}
+
+p {
+	color: white;
+}
